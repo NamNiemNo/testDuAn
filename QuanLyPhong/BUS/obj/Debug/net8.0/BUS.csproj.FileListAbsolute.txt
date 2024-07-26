@@ -1,0 +1,16 @@
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\bin\Debug\net8.0\BUS.deps.json
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\bin\Debug\net8.0\BUS.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\bin\Debug\net8.0\BUS.pdb
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\bin\Debug\net8.0\DAL.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\bin\Debug\net8.0\DAL.pdb
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.csproj.AssemblyReference.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.sourcelink.json
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.csproj.Up2Date
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\refint\BUS.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\BUS.pdb
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\BUS\obj\Debug\net8.0\ref\BUS.dll

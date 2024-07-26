@@ -1,0 +1,15 @@
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\bin\Debug\net8.0\DAL.deps.json
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\bin\Debug\net8.0\DAL.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\bin\Debug\net8.0\DAL.pdb
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\refint\DAL.dll
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.pdb
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+H:\CNTT\Du An 1\Du_An_1_Nhom1\QuanLyPhong\DAL\obj\Debug\net8.0\ref\DAL.dll

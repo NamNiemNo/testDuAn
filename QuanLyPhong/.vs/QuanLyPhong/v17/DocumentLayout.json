@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\quanlyphong\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|solutionrelative:quanlyphong\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\quanlyphong\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|solutionrelative:quanlyphong\\frmvoucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\iservice\\iservicesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\iservicesevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\iservice\\ivouchersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\ivouchersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\service\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\service\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\service\\vouchersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\service\\vouchersevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\voucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\voucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\irepositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\irepositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\irepositories\\ivoucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\irepositories\\ivoucherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\irepositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\irepositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\quanlyphong\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|solutionrelative:quanlyphong\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\quanlyphong\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|solutionrelative:quanlyphong\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\floorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\floorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\historypointsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\historypointsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\entities\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\iservice\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\iservice\\ikindofroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\ikindofroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\iservice\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\iservice\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\bus\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{338E2296-8AE0-411F-A5BC-D3C3EB9D97E7}|BUS\\BUS.csproj|solutionrelative:bus\\service\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\quanlyphong\\frmservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|solutionrelative:quanlyphong\\frmservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\quanlyphong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029ED15C-3908-4788-B2BC-5FEC900B426B}|QuanLyPhong\\QuanLyPhong.csproj|solutionrelative:quanlyphong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|h:\\cntt\\du an 1\\du_an_1_nhom1\\quanlyphong\\dal\\enums\\servicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C226D1C-231A-44EB-8267-B5390B02C973}|DAL\\DAL.csproj|solutionrelative:dal\\enums\\servicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IServiceSevice.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IServiceSevice.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\IServiceSevice.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IServiceSevice.cs",
+              "RelativeToolTip": "BUS\\IService\\IServiceSevice.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:18:37.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmService.cs [Design]",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmService.cs",
+              "RelativeDocumentMoniker": "QuanLyPhong\\frmService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmService.cs [Design]",
+              "RelativeToolTip": "QuanLyPhong\\frmService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:53:01.521Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmService.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmService.cs",
+              "RelativeDocumentMoniker": "QuanLyPhong\\frmService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmService.cs",
+              "RelativeToolTip": "QuanLyPhong\\frmService.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAuwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:04:56.301Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmVoucher.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmVoucher.cs",
+              "RelativeDocumentMoniker": "QuanLyPhong\\frmVoucher.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmVoucher.cs",
+              "RelativeToolTip": "QuanLyPhong\\frmVoucher.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:21:51.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVoucher.cs [Design]",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmVoucher.cs",
+              "RelativeDocumentMoniker": "QuanLyPhong\\frmVoucher.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmVoucher.cs [Design]",
+              "RelativeToolTip": "QuanLyPhong\\frmVoucher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:21:46.254Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwFQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:26:23.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VoucherRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\VoucherRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\VoucherRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\VoucherRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\VoucherRepository.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAADwv5MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:29:11.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVoucherSevice.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IVoucherSevice.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\IVoucherSevice.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IVoucherSevice.cs",
+              "RelativeToolTip": "BUS\\IService\\IVoucherSevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:18:34.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoucherSevice.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\Service\\VoucherSevice.cs",
+              "RelativeDocumentMoniker": "BUS\\Service\\VoucherSevice.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\Service\\VoucherSevice.cs",
+              "RelativeToolTip": "BUS\\Service\\VoucherSevice.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:21:50.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\Service\\ServiceService.cs",
+              "RelativeDocumentMoniker": "BUS\\Service\\ServiceService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\Service\\ServiceService.cs",
+              "RelativeToolTip": "BUS\\Service\\ServiceService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwDIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:21:56.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\IRepositories\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepositories\\IServiceRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\IRepositories\\IServiceRepository.cs",
+              "RelativeToolTip": "DAL\\IRepositories\\IServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:28:56.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVoucherRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\IRepositories\\IVoucherRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepositories\\IVoucherRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\IRepositories\\IVoucherRepository.cs",
+              "RelativeToolTip": "DAL\\IRepositories\\IVoucherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:50:42.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\IRepositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\IRepositories\\IRoomRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\IRepositories\\IRoomRepository.cs",
+              "RelativeToolTip": "DAL\\IRepositories\\IRoomRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:18:16.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\RoomRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\RoomRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:29:38.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrdersRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrdersRepository.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:33:27.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HistoryPointsRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\HistoryPointsRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\HistoryPointsRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\HistoryPointsRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\HistoryPointsRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:33:33.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FloorRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\FloorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\FloorRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\FloorRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\FloorRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:33:45.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\RoleRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:29:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:29:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Services.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Entities\\Services.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Services.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Entities\\Services.cs",
+              "RelativeToolTip": "DAL\\Entities\\Services.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:25:57.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IRoomService.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\IRoomService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IRoomService.cs",
+              "RelativeToolTip": "BUS\\IService\\IRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:25:38.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IKindOfRoomService.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IKindOfRoomService.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\IKindOfRoomService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IKindOfRoomService.cs",
+              "RelativeToolTip": "BUS\\IService\\IKindOfRoomService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:22:22.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\Service\\RoomService.cs",
+              "RelativeDocumentMoniker": "BUS\\Service\\RoomService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\Service\\RoomService.cs",
+              "RelativeToolTip": "BUS\\Service\\RoomService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:21:43.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IRoleService.cs",
+              "RelativeDocumentMoniker": "BUS\\IService\\IRoleService.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\BUS\\IService\\IRoleService.cs",
+              "RelativeToolTip": "BUS\\IService\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T16:22:18.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ServiceStatus.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Enums\\ServiceStatus.cs",
+              "RelativeDocumentMoniker": "DAL\\Enums\\ServiceStatus.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\DAL\\Enums\\ServiceStatus.cs",
+              "RelativeToolTip": "DAL\\Enums\\ServiceStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:07:26.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmService.Designer.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmService.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyPhong\\frmService.Designer.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\frmService.Designer.cs",
+              "RelativeToolTip": "QuanLyPhong\\frmService.Designer.cs",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAwwLkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:51:44.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyPhong\\Program.cs",
+              "ToolTip": "H:\\CNTT\\Du An 1\\Du_An_1_Nhom1\\QuanLyPhong\\QuanLyPhong\\Program.cs",
+              "RelativeToolTip": "QuanLyPhong\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:21:46.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
